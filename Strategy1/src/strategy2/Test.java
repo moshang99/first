@@ -14,5 +14,6 @@ public class Test {
 		//ArraysµÄÅÅĞò
 		Ambient sort=new Ambient(new Sort());
 		sort.operate();
+		System.out.println(sort);
 	}
 }
