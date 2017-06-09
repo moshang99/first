@@ -8,6 +8,7 @@ public class Test {
 		//—°‘Ò≈≈–Ú
 		Ambient choices=new Ambient(new Choices());
 		choices.operate();
+		System.out.println(new Choices());
 		//≤Â»Î≈≈–Ú
 		Ambient insert=new Ambient(new Insert());
 		insert.operate();
